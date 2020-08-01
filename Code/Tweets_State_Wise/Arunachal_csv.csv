@@ -1,0 +1,995 @@
+# CSV-File created with merge-csv.com
+# -----------------------------------------------------------
+
+"","ttext","date","isretweet","retweetcount","favoritecount","score","product","state","country","duplicate"
+"1","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-28 12:40:24","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"2","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-28 11:13:01","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",FALSE
+"3","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-28 04:41:27","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"4","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-27 16:37:18","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"5","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-27 14:01:26","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"6","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-27 00:42:06","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"7","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-26 11:20:13","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"8","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-26 01:53:39","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"9","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-26 01:46:28","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"10","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 18:44:54","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"11","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 17:42:41","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"12","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 16:57:02","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"13","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 16:07:43","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"14","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 14:58:17","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"15","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 14:34:33","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"16","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 14:24:49","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"17","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 14:22:16","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"18","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 13:23:25","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"19","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:51:09","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"20","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:44:23","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"21","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:44:00","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"22","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:40:48","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"23","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:39:28","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"24","Launched a web portal  ","2018-07-25 12:39:14","FALSE","18","59","0","HealthCare","Arunachal Pradesh","India",FALSE
+"25","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-25 09:58:50","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"26","Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya s  ","2018-07-25 09:16:58","FALSE","6","10","1","HealthCare","Arunachal Pradesh","India",FALSE
+"1","RT @Arunachal_Jobs: Medicine Specialist: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort at e","2018-07-28 17:43:31","TRUE","1","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"2","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-28 12:40:24","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"3","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-28 11:13:01","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",FALSE
+"4","Paediatrician: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort at ens  ","2018-07-28 06:55:06","FALSE","0","1","0","HealthCare","Arunachal Pradesh","India",FALSE
+"5","Gynaecologist: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort at ens  ","2018-07-28 06:55:05","FALSE","0","1","0","HealthCare","Arunachal Pradesh","India",FALSE
+"6","Medicine Specialist: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort  ","2018-07-28 06:55:05","FALSE","1","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"7","Anaesthetist: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort at ensu  ","2018-07-28 06:55:05","FALSE","0","1","0","HealthCare","Arunachal Pradesh","India",FALSE
+"8","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-28 04:41:27","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"9","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-28 04:25:51","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",FALSE
+"10","Apply Online for CMs Arogya Arunachal Yojana @  ","2018-07-27 18:26:41","FALSE","0","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"11","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-27 16:37:18","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"12","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-27 14:01:26","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"13","RT @freejobsalert4u: NHM Arunachal Pradesh Recruitment 2018 . National Health Mission, Arunachal Pradesh invites applications for recruitme","2018-07-27 11:09:58","TRUE","1","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"14","NHM Arunachal Pradesh Recruitment 2018 . National Health Mission, Arunachal Pradesh invites applications for recrui  ","2018-07-27 10:00:13","FALSE","1","1","0","HealthCare","Arunachal Pradesh","India",FALSE
+"15","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-27 07:59:33","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"16","Chief Ministers Arogya Arunachal Yojana (CMAAY) to replace Chief Minister Universal Health Insurance Scheme (CMUHI  ","2018-07-27 07:24:05","FALSE","0","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"17","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-27 02:32:07","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"18","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-27 01:00:58","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"19","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-27 00:59:59","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"20","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-27 00:42:06","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"21","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 19:32:21","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"22","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 18:09:36","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"23","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 18:04:40","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"24","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 17:30:12","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"25","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 17:27:51","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"26","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 17:16:42","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"27","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 17:08:29","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"28","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 16:29:23","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"29","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 15:23:14","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"30","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 14:53:46","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"31","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 14:48:14","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"32","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 14:46:20","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"33","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 14:40:13","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"34","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 14:26:25","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"35","RT @Mundra08: State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Haryana
+India'","2018-07-26 14:21:55","TRUE","21","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"36","State-wise trends in Per capita expenditure on Health (2014-2018)
+Top 5 states-
+Arunachal P
+Mizoram
+Sikkim
+J&amp;K
+Hary  ","2018-07-26 14:05:44","FALSE","21","33","1","HealthCare","Arunachal Pradesh","India",FALSE
+"37","RT @PemaKhanduBJP: Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme. The","2018-07-26 11:20:59","TRUE","9","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"38","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-26 11:20:13","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"39","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-26 01:53:39","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"40","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-26 01:46:28","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"41","RT @PemaKhanduBJP: Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme. The","2018-07-26 01:26:35","TRUE","9","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"42","CMs Arogya Arunachal Yojana to replace CMs Universal Health Insurance Scheme  ","2018-07-25 22:39:09","FALSE","0","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"43","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 18:44:54","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"44","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 17:42:41","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"45","RT @PemaKhanduBJP: Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme. The","2018-07-25 17:01:27","TRUE","9","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"46","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 16:57:02","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"47","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 16:07:43","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"48","RT @PemaKhanduBJP: Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme. The","2018-07-25 16:06:35","TRUE","9","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"49","RT @PemaKhanduBJP: Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme. The","2018-07-25 15:17:01","TRUE","9","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"50","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 14:58:17","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"51","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 14:34:33","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"52","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 14:24:49","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"53","RT @PemaKhanduBJP: Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme. The","2018-07-25 14:23:17","TRUE","9","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"54","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 14:22:16","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"55","RT @PemaKhanduBJP: Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme. The","2018-07-25 13:23:34","TRUE","9","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"56","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 13:23:25","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"57","RT @PemaKhanduBJP: Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme. The","2018-07-25 13:02:48","TRUE","9","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"58","RT @PemaKhanduBJP: Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme. The","2018-07-25 13:02:07","TRUE","9","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"59","Approved the enrolment and pre authorization of beneficiaries through online mode availing AB-NHPM and CMAAY scheme  ","2018-07-25 13:01:01","FALSE","9","47","0","HealthCare","Arunachal Pradesh","India",FALSE
+"60","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:51:09","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"61","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:44:23","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"62","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:44:00","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"63","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:40:48","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"64","RT @PemaKhanduBJP: Launched a web portal  ","2018-07-25 12:39:28","TRUE","18","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"65","Launched a web portal  ","2018-07-25 12:39:14","FALSE","18","59","0","HealthCare","Arunachal Pradesh","India",FALSE
+"66","RT @ArunachalNhm: Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya swasthy","2018-07-25 09:58:50","TRUE","6","0","1","HealthCare","Arunachal Pradesh","India",TRUE
+"67","Glimpse of Soft launch of Chief Minister Arogya Arunachal Yojna CMAAY &amp; Ayushman Bharat Pradhan Mantri Rashtriya s  ","2018-07-25 09:16:58","FALSE","6","10","1","HealthCare","Arunachal Pradesh","India",FALSE
+"68","NHM Arunachal Pradesh Recruitment 2018 . National Health Mission, Arunachal Pradesh invites applications for recrui  ","2018-07-20 09:40:06","FALSE","0","0","0","HealthCare","Arunachal Pradesh","India",TRUE
+"69","NHM Arunachal Pradesh Recruitment 2018.National Health Mission,Arunachal Pradeshinvites applications for recrui  ","2018-07-19 09:25:05","FALSE","0","0","0","HealthCare","Arunachal Pradesh","India",FALSE
+"1","Excise Scam exposed | Arunachal Alcohol in black market | Excise department in illegal alcohol scam:  ","2018-07-26 13:04:34","FALSE","0","0","-3","Afforadability","Arunachal Pradesh","India",FALSE
+"2","I added a video to a @YouTube playlist  ","2018-07-26 13:04:19","FALSE","0","0","0","Afforadability","Arunachal Pradesh","India",FALSE
+"1","@DebjaniBhatta20 @rajnathsingh @ANI Change in name does not change the living conditions for Bengalis. Our National  ","2018-07-27 06:03:59","FALSE","0","2","0","Afforadability","Arunachal Pradesh","India",FALSE
+"2",".@amitmalviya Wake Up&gt;&gt; Goa,Kerala, West Bengal ,Arunachal Pradesh,  Mizoram, Meghalaya, Nagaland, Tripura, Sikkim.  ","2018-07-25 04:04:41","FALSE","0","0","0","Afforadability","Arunachal Pradesh","India",FALSE
+"3","RT @iGyanendraGiri: Good News for traders living in hilly areas: Exemption limit for traders in Assam,
+Arunachal Pradesh, Himachal Pradesh,","2018-07-23 07:30:29","TRUE","4","0","0","Afforadability","Arunachal Pradesh","India",FALSE
+"4","RT @iGyanendraGiri: Good News for traders living in hilly areas: Exemption limit for traders in Assam,
+Arunachal Pradesh, Himachal Pradesh,","2018-07-22 12:30:09","TRUE","4","0","0","Afforadability","Arunachal Pradesh","India",TRUE
+"5","RT @vijaita: ""There will be no redrawing of the maps for Assam,Arunachal Pradesh Manipur to merge the Naga inhabited areas for a Greater Na","2018-07-22 12:19:25","TRUE","5","0","0","Afforadability","Arunachal Pradesh","India",FALSE
+"6","RT @vijaita: ""There will be no redrawing of the maps for Assam,Arunachal Pradesh Manipur to merge the Naga inhabited areas for a Greater Na","2018-07-22 12:13:10","TRUE","5","0","0","Afforadability","Arunachal Pradesh","India",TRUE
+"7","RT @vijaita: ""There will be no redrawing of the maps for Assam,Arunachal Pradesh Manipur to merge the Naga inhabited areas for a Greater Na","2018-07-22 12:12:18","TRUE","5","0","0","Afforadability","Arunachal Pradesh","India",TRUE
+"8","RT @vijaita: ""There will be no redrawing of the maps for Assam,Arunachal Pradesh Manipur to merge the Naga inhabited areas for a Greater Na","2018-07-22 12:10:58","TRUE","5","0","0","Afforadability","Arunachal Pradesh","India",TRUE
+"9","RT @vijaita: ""There will be no redrawing of the maps for Assam,Arunachal Pradesh Manipur to merge the Naga inhabited areas for a Greater Na","2018-07-22 05:58:14","TRUE","5","0","0","Afforadability","Arunachal Pradesh","India",TRUE
+"10","""There will be no redrawing of the maps for Assam,Arunachal Pradesh Manipur to merge the Naga inhabited areas for a  ","2018-07-22 05:55:15","FALSE","5","11","0","Afforadability","Arunachal Pradesh","India",FALSE
+"11","RT @iGyanendraGiri: Good News for traders living in hilly areas: Exemption limit for traders in Assam,
+Arunachal Pradesh, Himachal Pradesh,","2018-07-22 05:17:31","TRUE","4","0","0","Afforadability","Arunachal Pradesh","India",TRUE
+"12","RT @iGyanendraGiri: Good News for traders living in hilly areas: Exemption limit for traders in Assam,
+Arunachal Pradesh, Himachal Pradesh,","2018-07-21 18:40:07","TRUE","4","0","0","Afforadability","Arunachal Pradesh","India",TRUE
+"13","Good News for traders living in hilly areas: Exemption limit for traders in Assam,
+Arunachal Pradesh, Himachal Prad  ","2018-07-21 15:19:42","FALSE","4","9","0","Afforadability","Arunachal Pradesh","India",FALSE
+"14","Good News for traders living in hilly areas: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Prad  ","2018-07-21 15:15:09","FALSE","0","0","0","Afforadability","Arunachal Pradesh","India",FALSE
+"15","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-21 11:52:18","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",FALSE
+"16","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 18:29:11","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"17","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 14:24:00","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"18","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 10:47:51","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"19","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 10:32:04","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"20","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 10:28:56","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"21","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 10:10:44","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"22","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 07:51:48","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"23","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 07:32:44","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"24","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 02:38:33","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"25","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-20 02:14:59","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"26","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 19:21:16","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"27","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 16:27:30","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"28","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 15:22:14","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"29","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 15:05:54","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"30","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 14:52:29","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"31","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 14:49:35","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"32","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 14:45:11","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"33","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 14:40:35","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"34","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 14:37:22","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"35","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 14:21:00","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"36","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 14:06:57","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"37","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 14:04:56","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"38","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 13:53:21","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"39","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 13:52:40","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"40","RT @PemaKhanduBJP: Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremost re","2018-07-19 13:51:46","TRUE","34","0","2","Afforadability","Arunachal Pradesh","India",TRUE
+"41","Thanks to Shri @narendramodi ji for providing basic facilities to the last person for a decent living as his foremo  ","2018-07-19 13:51:25","FALSE","34","151","1","Afforadability","Arunachal Pradesh","India",FALSE
+"1","RT @ninong_erring: I have expressed deep concerns over deforestation in our state.The continuous depletion of forest will lead to many ecol","2018-07-19 17:05:16","TRUE","5","0","0","Climate","Arunachal Pradesh","India",FALSE
+"1","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 13:25:27","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",FALSE
+"2","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 10:19:35","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"3","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 09:47:30","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"4","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 09:31:59","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"5","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 09:25:07","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"6","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 09:14:11","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"7","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 08:54:43","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"8","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 08:49:37","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"9","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 08:27:31","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"10","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 08:14:45","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"11","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 08:01:47","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"12","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:59:45","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"13","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:55:15","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"14","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:47:46","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"15","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:47:05","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"16","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:47:05","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"17","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:43:54","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"18","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:41:41","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"19","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:38:25","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"20","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:33:34","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"21","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:33:23","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"22","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:29:41","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"23","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:29:19","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"24","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:28:26","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"25","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:26:59","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"26","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:25:31","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"27","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:25:08","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"28","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:24:39","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"29","RT @PIB_India: MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,   Ganget","2018-07-28 07:19:31","TRUE","32","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"30","MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,  ","2018-07-28 07:18:11","FALSE","0","0","-1","Climate","Arunachal Pradesh","India",FALSE
+"31","MonsoonUpdate: Heavy rain at isolated places over Arunachal Pradesh,
+Nagaland,   Manipur,   Mizoram   &amp;   Tripura,  ","2018-07-28 07:17:44","FALSE","32","88","-1","Climate","Arunachal Pradesh","India",TRUE
+"32","RT @PIB_India: Heavy rain at isolated places over J&amp;K, HP, Uttarakhand, Punjab, Odisha, West Bengal, Sikkim, Jharkhand, Telangana, Assam &amp;","2018-07-23 18:10:39","TRUE","8","0","-1","Climate","Arunachal Pradesh","India",FALSE
+"33","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 13:13:59","TRUE","20","0","0","Climate","Arunachal Pradesh","India",FALSE
+"34","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 12:44:48","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"35","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 10:57:50","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"36","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 09:01:40","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"37","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 08:37:54","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"38","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 08:28:29","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"39","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 08:22:15","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"40","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 08:21:54","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"41","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 08:19:54","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"42","RT @PIB_India: Heavy rain at isolated places over J&amp;K, HP, Uttarakhand, Punjab, Odisha, West Bengal, Sikkim, Jharkhand, Telangana, Assam &amp;","2018-07-23 08:19:18","TRUE","8","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"43","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 08:15:49","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"44","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 08:10:41","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"45","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 07:46:22","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"46","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 07:40:47","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"47","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 07:39:09","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"48","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 07:36:29","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"49","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 07:34:31","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"50","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 07:22:55","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"51","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 07:20:40","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"52","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 07:20:19","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"53","RT @ndmaindia: 23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'khand,Punj","2018-07-23 07:13:21","TRUE","20","0","0","Climate","Arunachal Pradesh","India",TRUE
+"54","23 July:Heavy rain in MP,Vidarbha; 
+UP,East.Rajasthan,Madhya Maharashtra,Konkan,Goa,Chhattisgarh JnK,Himachal,Utt'k  ","2018-07-23 07:11:11","FALSE","20","38","0","Climate","Arunachal Pradesh","India",FALSE
+"55","RT @PIB_India: Heavy rain at isolated places over J&amp;K, HP, Uttarakhand, Punjab, Odisha, West Bengal, Sikkim, Jharkhand, Telangana, Assam &amp;","2018-07-23 05:57:05","TRUE","8","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"56","RT @PIB_India: Heavy rain at isolated places over J&amp;K, HP, Uttarakhand, Punjab, Odisha, West Bengal, Sikkim, Jharkhand, Telangana, Assam &amp;","2018-07-23 05:52:27","TRUE","8","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"57","RT @PIB_India: Heavy rain at isolated places over J&amp;K, HP, Uttarakhand, Punjab, Odisha, West Bengal, Sikkim, Jharkhand, Telangana, Assam &amp;","2018-07-23 05:48:31","TRUE","8","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"58","RT @PIB_India: Heavy rain at isolated places over J&amp;K, HP, Uttarakhand, Punjab, Odisha, West Bengal, Sikkim, Jharkhand, Telangana, Assam &amp;","2018-07-23 05:48:09","TRUE","8","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"59","RT @PIB_India: Heavy rain at isolated places over J&amp;K, HP, Uttarakhand, Punjab, Odisha, West Bengal, Sikkim, Jharkhand, Telangana, Assam &amp;","2018-07-23 05:46:36","TRUE","8","0","-1","Climate","Arunachal Pradesh","India",TRUE
+"60","Heavy rain at isolated places over J&amp;K, HP, Uttarakhand, Punjab, Odisha, West Bengal, Sikkim, Jharkhand, Telangana,  ","2018-07-23 05:46:17","FALSE","0","0","-1","Climate","Arunachal Pradesh","India",FALSE
+"61","Heavy rain at isolated places over J&amp;K, HP, Uttarakhand, Punjab, Odisha, West Bengal, Sikkim, Jharkhand, Telangana,  ","2018-07-23 05:46:00","FALSE","8","29","-1","Climate","Arunachal Pradesh","India",TRUE
+"1","RT @spokesmanwater: Northeastern States are likely to witness rise in water level in Brahmputra, Barak and its tributaries due to heavy t","2018-07-26 18:48:06","TRUE","1","0","0","Climate","Arunachal Pradesh","India",FALSE
+"2","Northeastern States are likely to witness rise in water level in Brahmputra, Barak and its tributaries due to hea  ","2018-07-26 16:56:45","FALSE","1","2","0","Climate","Arunachal Pradesh","India",FALSE
+"3","TNT | News
+ArunachalPradesh Roads collapse in state amid heavy rainfall...
+More details-
+ ","2018-07-26 06:28:40","FALSE","0","2","-1","Climate","Arunachal Pradesh","India",FALSE
+"4","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 15:42:53","TRUE","12","0","0","Climate","Arunachal Pradesh","India",FALSE
+"5","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 14:50:18","TRUE","12","0","0","Climate","Arunachal Pradesh","India",TRUE
+"6","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 12:00:31","TRUE","12","0","0","Climate","Arunachal Pradesh","India",TRUE
+"7","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 11:49:53","TRUE","12","0","0","Climate","Arunachal Pradesh","India",TRUE
+"8","Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following  ","2018-07-25 11:36:36","FALSE","0","0","0","Climate","Arunachal Pradesh","India",FALSE
+"9","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 11:21:44","TRUE","12","0","0","Climate","Arunachal Pradesh","India",TRUE
+"10","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 11:11:21","TRUE","12","0","0","Climate","Arunachal Pradesh","India",TRUE
+"11","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 11:07:20","TRUE","12","0","0","Climate","Arunachal Pradesh","India",TRUE
+"12","Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following  ","2018-07-25 11:04:51","FALSE","0","0","0","Climate","Arunachal Pradesh","India",TRUE
+"13","Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following  ","2018-07-25 11:03:20","FALSE","0","0","0","Climate","Arunachal Pradesh","India",TRUE
+"14","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 11:03:09","TRUE","12","0","0","Climate","Arunachal Pradesh","India",TRUE
+"15","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 11:01:52","TRUE","12","0","0","Climate","Arunachal Pradesh","India",TRUE
+"16","RT @ANI: Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following landslides caus","2018-07-25 11:01:43","TRUE","12","0","0","Climate","Arunachal Pradesh","India",TRUE
+"17","Arunachal Pradesh: Traffic movement disrupted at National-Highway 415 connecting Itanagar and Naharlagun following  ","2018-07-25 11:00:32","FALSE","12","21","0","Climate","Arunachal Pradesh","India",TRUE
+"1","Nyishi traditional council Nyel or Mel is the powerful body to resolve the criminal and civil cases in Arunachal pr  ","2018-07-25 13:05:12","FALSE","0","1","0","Crime","Arunachal Pradesh","India",FALSE
+"2","Antique Buddhist idol stolen in Arunachal Pradesh recovered by Delhi police  ","2018-07-24 07:30:49","FALSE","0","0","0","Crime","Arunachal Pradesh","India",FALSE
+"3","Antique Buddhist idol stolen in Arunachal Pradesh recovered by Delhi police  ","2018-07-24 07:21:27","FALSE","0","0","0","Crime","Arunachal Pradesh","India",TRUE
+"4","Antique Buddhist idol stolen in Arunachal Pradesh recovered by Delhi police  ","2018-07-24 07:18:28","FALSE","0","0","0","Crime","Arunachal Pradesh","India",TRUE
+"5","Antique Buddhist idol stolen in Arunachal Pradesh recovered by Delhi police  ","2018-07-24 07:17:28","FALSE","0","0","0","Crime","Arunachal Pradesh","India",TRUE
+"6","Antique Buddhist idol stolen in Arunachal Pradesh recovered by Delhi police  ","2018-07-24 07:00:07","FALSE","0","0","0","Crime","Arunachal Pradesh","India",TRUE
+"7","Antique Buddhist idol stolen in Arunachal Pradesh recovered by Delhi police  ","2018-07-24 06:55:48","FALSE","0","0","0","Crime","Arunachal Pradesh","India",TRUE
+"1","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-25 18:36:23","TRUE","24","0","1","Crime","Arunachal Pradesh","India",FALSE
+"2","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-25 15:07:04","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"3","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-25 10:06:17","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"4","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-25 09:34:10","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"5","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-25 09:30:31","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"6","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-25 05:59:06","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"7","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-25 00:24:04","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"8","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-25 00:07:19","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"9","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 21:10:13","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"10","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 18:06:22","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"11","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 17:45:25","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"12","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 17:15:19","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"13","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 16:49:18","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"14","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 16:34:54","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"15","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 16:23:34","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"16","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 16:22:39","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"17","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 16:17:26","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"18","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 16:15:31","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"19","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 16:07:31","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"20","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 16:05:58","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"21","RT @SouleFacts: All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in Assam, W","2018-07-24 16:04:31","TRUE","24","0","1","Crime","Arunachal Pradesh","India",TRUE
+"22","All Hindus who want a safe India &amp; do believe in Hindutva shud come forward to do GuruDakshina.......Any one in A  ","2018-07-24 15:59:56","FALSE","24","22","1","Crime","Arunachal Pradesh","India",FALSE
+"23","Arunachal Pradesh Youth Congress(APYC) President @arunachalprade5 rejoice the Guwahati High Court decision for cond  ","2018-07-21 03:12:06","FALSE","0","0","1","Crime","Arunachal Pradesh","India",FALSE
+"1","I thought I must share that I'm writing a book. 
+Title :Mishmi cultural Vs Modern Culture .
+Mishmi is a one of the  ","2018-07-27 10:05:33","FALSE","0","0","1","Culture","Arunachal Pradesh","India",FALSE
+"2","@Nat_khat_gurl @AngryPawanPutra @ANI This shows your standard. Disrespecting someone's culture. This is Arunachal P  ","2018-07-22 05:32:01","FALSE","0","1","-1","Culture","Arunachal Pradesh","India",FALSE
+"3","RT @NBirenSingh: At Madhavpur Mela@with CM Arunachal Shri @PemaKhanduBJP ji,CM @vijayrupanibjp ji @Minister of state for home affairs Shri","2018-07-22 03:37:51","TRUE","128","0","0","Culture","Arunachal Pradesh","India",FALSE
+"4","RT @MyWanderlust_in: Women of the ______ wore large nose plugs until it got banned in 1974.
+a) Mishmi tribe
+b) Nyishi tribe
+c) Apatani tri","2018-07-21 12:50:16","TRUE","1","0","0","Culture","Arunachal Pradesh","India",FALSE
+"5","Women of the ______ wore large nose plugs until it got banned in 1974.
+a) Mishmi tribe
+b) Nyishi tribe
+c) Apatani  ","2018-07-21 12:28:49","FALSE","1","1","0","Culture","Arunachal Pradesh","India",FALSE
+"1","RT @arunachallaf201: Meet East India poets at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup @PemaKhanduBJP @Kir","2018-07-28 16:33:41","TRUE","1","0","0","Culture","Arunachal Pradesh","India",FALSE
+"2","Get a glimpse of her artwork at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-28 16:28:56","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"3","Bhanu Tatak will be there at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-28 11:48:54","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"4","Meet East India poets at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup @PemaKhanduBJP  ","2018-07-28 06:17:51","FALSE","1","3","0","Culture","Arunachal Pradesh","India",FALSE
+"5","Catch Carolina Norbu at Arunachal Literature and Art Festival 
+alaf2018 alaf artU lititup  ","2018-07-27 13:11:36","FALSE","0","1","0","Culture","Arunachal Pradesh","India",FALSE
+"6","Catch Carolina Norbu at Arunachal Literature and Art Festival 
+alaf2018 alaf artU lititup @PemaKhanduBJP  ","2018-07-27 11:44:03","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"7","Meet K4 Kekho at the Arunachal Literature and Art Festival 2018
+alaf2018 alaf lititup artU  ","2018-07-27 07:58:41","FALSE","0","6","0","Culture","Arunachal Pradesh","India",FALSE
+"8","Our very own Kekho will be present at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-26 17:52:46","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"9","Jene Hai will be present on Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-26 06:48:38","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"10","Jene Hai will be present on Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-26 06:22:24","FALSE","0","0","0","Culture","Arunachal Pradesh","India",TRUE
+"11","Get a glimpse of her artwork at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-25 06:46:47","FALSE","0","0","0","Culture","Arunachal Pradesh","India",TRUE
+"12","Anyone going for the Ziro Music Festival in Arunachal Pradesh? @ArunachalTsm ziro musicfestival","2018-07-24 16:55:18","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"13","Catch her at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-24 08:46:54","FALSE","0","2","0","Culture","Arunachal Pradesh","India",FALSE
+"14","Get a glimpse of her artwork at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-24 05:11:51","FALSE","0","2","0","Culture","Arunachal Pradesh","India",TRUE
+"15","Catch her at Arunachal Literature and Art Festival 2018 
+alaf2018  alaf artU lititup @PemaKhanduBJP  ","2018-07-23 16:58:45","FALSE","0","1","0","Culture","Arunachal Pradesh","India",FALSE
+"16","RT @eclectictweets: River Song directed by Sange Dorjee Thongdok has been selected for competition and premiere at 15th International Ind","2018-07-23 12:29:27","TRUE","2","0","0","Culture","Arunachal Pradesh","India",FALSE
+"17","Meet the author of, 'Will Spring Bloom Again? ' at Arunachal Literature and Art Festival 2018
+alaf2018 alaf  ","2018-07-23 07:28:48","FALSE","0","3","1","Culture","Arunachal Pradesh","India",FALSE
+"18","RT @arunachallaf201: Are you excited for Arunachal Literature and Art Festival 2018?
+alaf2018 alaf artU lititup  ","2018-07-23 00:40:13","TRUE","1","0","1","Culture","Arunachal Pradesh","India",FALSE
+"19","RT @NorthEastToday: Meet Tongam Rina at Arunachal Literature and Art Festival 2018.
+alalf2018 alaf artU lititup  ","2018-07-22 11:42:51","TRUE","2","0","0","Culture","Arunachal Pradesh","India",FALSE
+"20","RT @NorthEastToday: Meet Tongam Rina at Arunachal Literature and Art Festival 2018.
+alalf2018 alaf artU lititup  ","2018-07-22 08:23:30","TRUE","2","0","0","Culture","Arunachal Pradesh","India",TRUE
+"21","Are you excited for Arunachal Literature and Art Festival 2018?
+alaf2018 alaf artU lititup  ","2018-07-22 06:53:44","FALSE","1","1","1","Culture","Arunachal Pradesh","India",FALSE
+"22","Meet Tongam Rina at Arunachal Literature and Art Festival 2018.
+alalf2018 alaf artU lititup  ","2018-07-22 05:41:05","FALSE","2","15","0","Culture","Arunachal Pradesh","India",FALSE
+"23","RT @DiscoverNE_7: The land of Monpas invites you for the most awaited Cultural festival. Join us for the everlasting experience of Tawang f","2018-07-22 04:45:54","TRUE","2","0","1","Culture","Arunachal Pradesh","India",FALSE
+"24","RT @DiscoverNE_7: The land of Monpas invites you for the most awaited Cultural festival. Join us for the everlasting experience of Tawang f","2018-07-22 02:57:09","TRUE","2","0","1","Culture","Arunachal Pradesh","India",TRUE
+"25","The land of Monpas invites you for the most awaited Cultural festival. Join us for the everlasting experience of Ta  ","2018-07-22 02:56:06","FALSE","2","2","1","Culture","Arunachal Pradesh","India",FALSE
+"26","Meet Tongam Rina at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup
+@PemaKhanduBJP  ","2018-07-21 04:31:09","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"27","RT @NorthEastToday: Meet Ponung Ering Angu at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-20 05:42:50","TRUE","1","0","0","Culture","Arunachal Pradesh","India",FALSE
+"28","Meet Ponung Ering Angu at Arunachal Literature and Art Festival 2018
+alaf2018 alaf artU lititup  ","2018-07-20 05:26:03","FALSE","1","1","0","Culture","Arunachal Pradesh","India",FALSE
+"29","Meet Ponung Ering Angu at Arunachal Literature and Art Festival 2018  alaf2018 alaf artU lititup @PemaKhanduBJP  ","2018-07-19 16:44:12","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"30","India's Greatest Outdoor Music Festival known as""ZIRO FESTIVAL"" is going to start from 26th to 30th Sept. 2018. in  ","2018-07-19 13:46:28","FALSE","0","1","1","Culture","Arunachal Pradesh","India",FALSE
+"1","I thought I must share that I'm writing a book. 
+Title :Mishmi cultural Vs Modern Culture .
+Mishmi is a one of the  ","2018-07-27 10:05:33","FALSE","0","0","1","Culture","Arunachal Pradesh","India",FALSE
+"2","RT @dr_maheshsharma: At the historical MadhavpurMela where we are celebrating the immortal journey which Rukmini undertook from Arunachal","2018-07-27 00:56:17","TRUE","827","0","0","Culture","Arunachal Pradesh","India",FALSE
+"3","Tibetan Parliamentary delegates Pema Jungney and Ven. Kunga Sotop visited Itanagar (AP) on 9 July and met with the  ","2018-07-26 09:41:49","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"4","The Save Mon Region Forum (SMRF) has written to the government of Arunachal Pradesh, seeking rollback of the NHPCs  ","2018-07-24 11:16:44","FALSE","0","0","0","Culture","Arunachal Pradesh","India",FALSE
+"5","RT @DiscoverNE_7: The land of Monpas invites you for the most awaited Cultural festival. Join us for the everlasting experience of Tawang f","2018-07-22 04:45:54","TRUE","2","0","1","Culture","Arunachal Pradesh","India",FALSE
+"6","RT @DiscoverNE_7: The land of Monpas invites you for the most awaited Cultural festival. Join us for the everlasting experience of Tawang f","2018-07-22 02:57:09","TRUE","2","0","1","Culture","Arunachal Pradesh","India",TRUE
+"7","The land of Monpas invites you for the most awaited Cultural festival. Join us for the everlasting experience of Ta  ","2018-07-22 02:56:06","FALSE","2","2","1","Culture","Arunachal Pradesh","India",FALSE
+"8","RT @VPSecretariat: Arunachal Pradesh with its rich diversity in terms of flora and fauna and unique customs and traditions followed by the","2018-07-18 17:15:36","TRUE","59","0","1","Culture","Arunachal Pradesh","India",FALSE
+"1","(Arunachal Chief Minister seeks to expand NCC units in all state schools) The Indian Wire -  ","2018-07-26 11:39:04","FALSE","0","0","0","Education","Arunachal Pradesh","India",FALSE
+"2","NCC Should Be Present In All Schools In Arunachal Pradesh: Pema Khandu :  ","2018-07-25 17:31:18","FALSE","0","0","0","Education","Arunachal Pradesh","India",FALSE
+"3","Compartment Students allowed to Join.
+MARKS, PERCENTAGE &amp; SUBJECTS DO NOT MATTER!
+----------
+Free Education by  ","2018-07-25 04:08:37","FALSE","0","0","0","Education","Arunachal Pradesh","India",FALSE
+"4","RT @rajagopalcv: They are from Tawang, Arunachal. What language do you speak, I asked. Monpa they said. What do you want to become? Teacher","2018-07-24 07:50:24","TRUE","2","0","0","Education","Arunachal Pradesh","India",FALSE
+"5","RT @rajagopalcv: They are from Tawang, Arunachal. What language do you speak, I asked. Monpa they said. What do you want to become? Teacher","2018-07-24 04:01:22","TRUE","2","0","0","Education","Arunachal Pradesh","India",TRUE
+"6","RT @Dell4Good: Dell employees joined the dynamic @NatGeo Libecki father-daughter duo on a journey to bring technology &amp; education to a remo","2018-07-24 00:08:17","TRUE","8","0","1","Education","Arunachal Pradesh","India",FALSE
+"7","RT @Dell4Good: Dell employees joined the dynamic @NatGeo Libecki father-daughter duo on a journey to bring technology &amp; education to a remo","2018-07-23 23:38:37","TRUE","8","0","1","Education","Arunachal Pradesh","India",TRUE
+"8","RT @Dell4Good: Dell employees joined the dynamic @NatGeo Libecki father-daughter duo on a journey to bring technology &amp; education to a remo","2018-07-23 21:27:48","TRUE","8","0","1","Education","Arunachal Pradesh","India",TRUE
+"9","RT @Dell4Good: Dell employees joined the dynamic @NatGeo Libecki father-daughter duo on a journey to bring technology &amp; education to a remo","2018-07-23 21:08:29","TRUE","8","0","1","Education","Arunachal Pradesh","India",TRUE
+"10","RT @Dell4Good: Dell employees joined the dynamic @NatGeo Libecki father-daughter duo on a journey to bring technology &amp; education to a remo","2018-07-23 17:51:37","TRUE","8","0","1","Education","Arunachal Pradesh","India",TRUE
+"11","RT @Dell4Good: Dell employees joined the dynamic @NatGeo Libecki father-daughter duo on a journey to bring technology &amp; education to a remo","2018-07-23 17:19:47","TRUE","8","0","1","Education","Arunachal Pradesh","India",TRUE
+"12","They are from Tawang, Arunachal. What language do you speak, I asked. Monpa they said. What do you want to become?  ","2018-07-23 17:18:19","FALSE","2","11","0","Education","Arunachal Pradesh","India",FALSE
+"13","RT @Dell4Good: Dell employees joined the dynamic @NatGeo Libecki father-daughter duo on a journey to bring technology &amp; education to a remo","2018-07-23 16:13:22","TRUE","8","0","1","Education","Arunachal Pradesh","India",TRUE
+"14","RT @Dell4Good: Dell employees joined the dynamic @NatGeo Libecki father-daughter duo on a journey to bring technology &amp; education to a remo","2018-07-23 14:26:27","TRUE","8","0","1","Education","Arunachal Pradesh","India",TRUE
+"15","Dell employees joined the dynamic @NatGeo Libecki father-daughter duo on a journey to bring technology &amp; education  ","2018-07-23 14:00:01","FALSE","8","20","1","Education","Arunachal Pradesh","India",FALSE
+"16","RT @DgpPradesh: Arunachal Pradesh Police celebrated IYD &amp; tree plantation at Itanagar today.Hon' ble Chief Minister,Home Min , Power Min, R","2018-07-23 07:50:22","TRUE","21","0","1","Education","Arunachal Pradesh","India",FALSE
+"17","REGIONAL | Northeastern universities need to be given greater impetus to promote education, urges Arunachal MP  ","2018-07-21 05:35:01","FALSE","0","1","0","Education","Arunachal Pradesh","India",FALSE
+"18","Arunachal: APPSC to suspend internet service during civil service examinations 
+ ","2018-07-20 07:04:11","FALSE","0","0","0","Education","Arunachal Pradesh","India",FALSE
+"19","A very pleasant reading-
+Remembering the Glorious Days ofAssamese-Medium Schools in Arunachal  ","2018-07-20 01:54:11","FALSE","0","0","2","Education","Arunachal Pradesh","India",FALSE
+"20","Dear Sir
+ our education level is very low in north east reason like Sikkim,asam and arunachal pradesh. I have seen  ","2018-07-19 11:44:42","FALSE","0","0","1","Education","Arunachal Pradesh","India",FALSE
+"21","Opening FOR Counselor_Education Industry@15K Itanagar, Arunachal Pradesh  ","2018-07-18 12:04:46","FALSE","0","0","0","Education","Arunachal Pradesh","India",FALSE
+"1","Shocking : Christian School in Arunachal Pradesh Demands Baptism Certificate for Admission of Students  ","2018-07-27 03:16:12","FALSE","0","0","-1","Education","Arunachal Pradesh","India",FALSE
+"2","@DgpPradesh @KirenRijiju We need to spread and strengthen NCC network in Arunachal. Every school from pry to Univ  ","2018-07-25 04:20:23","FALSE","0","0","-1","Education","Arunachal Pradesh","India",FALSE
+"3","We Yelloites are here to present before you the school assembly for next fifteen days. Students of Pratap house are  ","2018-07-23 11:11:07","FALSE","0","1","0","Education","Arunachal Pradesh","India",FALSE
+"4","We Yelloites are here to present before you the school assembly for next fifteen days. Students of Pratap house are  ","2018-07-23 11:05:11","FALSE","0","1","0","Education","Arunachal Pradesh","India",TRUE
+"5","Arunachal: Two school bus collided, 6 studentsinjured  ","2018-07-19 14:35:11","FALSE","0","0","0","Education","Arunachal Pradesh","India",FALSE
+"6","Dear Sir
+ our education level is very low in north east reason like Sikkim,asam and arunachal pradesh. I have seen  ","2018-07-19 11:44:42","FALSE","0","0","1","Education","Arunachal Pradesh","India",FALSE
+"1","Hard Group Sex Tape With Wild College Girls (aubrey &amp;amp_ debbie) movie-07
+  ","2018-07-25 21:25:28","FALSE","0","1","-2","Education","Arunachal Pradesh","India",FALSE
+"2","Manipur (a state in Northeast India), has shut off the internet because residents are sharing news about corrupt  ","2018-07-23 16:51:19","FALSE","0","1","-1","Education","Arunachal Pradesh","India",FALSE
+"1","RT @rajagopalcv: They are from Tawang, Arunachal. What language do you speak, I asked. Monpa they said. What do you want to become? Teacher","2018-07-24 07:50:24","TRUE","2","0","0","Education","Arunachal Pradesh","India",FALSE
+"2","RT @rajagopalcv: They are from Tawang, Arunachal. What language do you speak, I asked. Monpa they said. What do you want to become? Teacher","2018-07-24 04:01:22","TRUE","2","0","0","Education","Arunachal Pradesh","India",TRUE
+"3","They are from Tawang, Arunachal. What language do you speak, I asked. Monpa they said. What do you want to become?  ","2018-07-23 17:18:19","FALSE","2","11","0","Education","Arunachal Pradesh","India",FALSE
+"4","English Teacher: Arunachal Pradesh - Wanted fluent teachers in all subject,fluency is must,food and accommodation p  ","2018-07-22 06:08:04","FALSE","0","0","1","Education","Arunachal Pradesh","India",FALSE
+"5","Dear Sir
+ our education level is very low in north east reason like Sikkim,asam and arunachal pradesh. I have seen  ","2018-07-19 11:44:42","FALSE","0","0","1","Education","Arunachal Pradesh","India",FALSE
+"6","Arunachal Pradesh PSC Recruitment 2018 .Arunachal Pradesh Public Service Commission (APPSC), Itanagar invites appl  ","2018-07-19 07:40:05","FALSE","0","0","0","Education","Arunachal Pradesh","India",FALSE
+"1","Arunachal PSC Recruitment 2017 for 07 Section Officer Posts -  ","2018-07-22 13:36:45","FALSE","0","0","0","Employment","Arunachal Pradesh","India",FALSE
+"2","Arunachal CM Meets Union MoS Labour and Employment Santosh Gangwar | LazyUpdates  ","2018-07-18 20:42:11","FALSE","0","0","0","Employment","Arunachal Pradesh","India",FALSE
+"3","Arunachal CM Meets Union MoS Labour and Employment Santosh Gangwar
+Read:  ","2018-07-18 20:13:01","FALSE","0","0","0","Employment","Arunachal Pradesh","India",FALSE
+"1","RT @Arunachal_Jobs: Medicine Specialist: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort at e","2018-07-28 17:43:31","TRUE","1","0","0","Employment","Arunachal Pradesh","India",FALSE
+"2","Parliamentary secretaries to lose job in Arunachal Pradesh
+BJPGovernment
+ArunachalPradeshParliamentarySecretaries  ","2018-07-28 08:29:18","FALSE","0","0","-1","Employment","Arunachal Pradesh","India",FALSE
+"3","Paediatrician: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort at ens  ","2018-07-28 06:55:06","FALSE","0","1","0","Employment","Arunachal Pradesh","India",FALSE
+"4","Gynaecologist: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort at ens  ","2018-07-28 06:55:05","FALSE","0","1","0","Employment","Arunachal Pradesh","India",FALSE
+"5","Medicine Specialist: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort  ","2018-07-28 06:55:05","FALSE","1","0","0","Employment","Arunachal Pradesh","India",FALSE
+"6","Anaesthetist: Naharlagun, Arunachal Pradesh - The National Rural Health Mission (NRHM) is a National effort at ensu  ","2018-07-28 06:55:05","FALSE","0","1","0","Employment","Arunachal Pradesh","India",FALSE
+"7","Air Hostess: Hub City Innovation - Itanagar, Arunachal Pradesh - Responsibility of air hostess job description: The  ","2018-07-28 06:55:04","FALSE","0","0","1","Employment","Arunachal Pradesh","India",FALSE
+"8","Cabin Crew: Hub City Innovation - Itanagar, Arunachal Pradesh - Working as a flight attendant for a major airline p  ","2018-07-28 06:55:04","FALSE","0","0","1","Employment","Arunachal Pradesh","India",FALSE
+"9","Sales Associate: PARSLEY BAKERY AND CAKES SHOP - Itanagar, Arunachal Pradesh - To acquire and negotiate with new cl  ","2018-07-26 06:33:33","FALSE","0","1","0","Employment","Arunachal Pradesh","India",FALSE
+"10","Chief Manager - Projects: Itanagar, Arunachal Pradesh - Job Description Monitoring site execution activities Salary  ","2018-07-25 05:18:03","FALSE","0","0","0","Employment","Arunachal Pradesh","India",FALSE
+"11","@DgpPradesh As a cadat I had undergone many camps and participate d in many events n he experienced the proud momen  ","2018-07-24 18:27:57","FALSE","0","0","1","Employment","Arunachal Pradesh","India",FALSE
+"12","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 14:10:29","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",FALSE
+"13","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 04:50:16","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"14","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 03:57:00","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"15","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 03:41:55","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"16","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 02:59:14","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"17","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 02:50:59","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"18","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 02:25:51","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"19","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 02:18:09","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"20","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 02:16:15","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"21","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 01:01:25","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"22","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-24 00:39:41","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"23","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-23 22:57:54","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"24","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-23 20:35:23","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"25","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-23 20:15:16","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"26","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-23 19:49:44","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"27","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-23 17:56:52","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"28","RT @Peacef_Warrior: Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whether","2018-07-23 17:34:57","TRUE","17","0","-1","Employment","Arunachal Pradesh","India",TRUE
+"29","Hats off to BRO. They are doing the most painful and thankless job and yet strategically so important for India whe  ","2018-07-23 17:09:33","FALSE","17","29","-1","Employment","Arunachal Pradesh","India",FALSE
+"30","Normal song: 
+Baba main teri mallika,
+Tukda hoon tere dil ka,
+Ek baar dehleez paar kara do
+What it means in Arunac  ","2018-07-23 06:26:48","FALSE","0","0","0","Employment","Arunachal Pradesh","India",FALSE
+"31","English Teacher: Arunachal Pradesh - Wanted fluent teachers in all subject,fluency is must,food and accommodation p  ","2018-07-22 06:08:04","FALSE","0","0","1","Employment","Arunachal Pradesh","India",FALSE
+"32","RT @Arunachal_Jobs: Medicine Specialist: Naharlagun, Arunachal Pradesh - Job Description No. APRHM/2018/74 Qualification: i) MD/DNB or equi","2018-07-21 17:33:44","TRUE","1","0","0","Employment","Arunachal Pradesh","India",FALSE
+"33","RT @Arunachal_Jobs: Paediatrician: Naharlagun, Arunachal Pradesh - Job Description No. APRHM/2018/74 Qualification: i) PG Degree/Diploma in","2018-07-21 17:32:33","TRUE","1","0","0","Employment","Arunachal Pradesh","India",FALSE
+"34","Anaesthetist: Naharlagun, Arunachal Pradesh - Job Description No. APRHM/2018/74 Qualification: i) PG Degree/Diploma  ","2018-07-21 05:39:40","FALSE","0","0","0","Employment","Arunachal Pradesh","India",FALSE
+"35","Medicine Specialist: Naharlagun, Arunachal Pradesh - Job Description No. APRHM/2018/74 Qualification: i) MD/DNB or  ","2018-07-21 05:39:40","FALSE","1","0","0","Employment","Arunachal Pradesh","India",FALSE
+"36","Paediatrician: Naharlagun, Arunachal Pradesh - Job Description No. APRHM/2018/74 Qualification: i) PG Degree/Diplom  ","2018-07-21 05:39:39","FALSE","1","0","0","Employment","Arunachal Pradesh","India",FALSE
+"37","Gynaecologist: Naharlagun, Arunachal Pradesh - Job Description No. APRHM/2018/74 Qualification: i) MD/MS/DNB in Obs  ","2018-07-21 05:39:39","FALSE","0","0","0","Employment","Arunachal Pradesh","India",FALSE
+"1"," ","2018-07-28 04:37:10","FALSE","0","0","0","Food","Arunachal Pradesh","India",FALSE
+"2","English Teacher: Arunachal Pradesh - Wanted fluent teachers in all subject,fluency is must,food and accommodation p  ","2018-07-22 06:08:04","FALSE","0","0","1","Food","Arunachal Pradesh","India",FALSE
+"1","""Landslide  @Near Sango Restaurant, NH-415, Arunachal Pradesh       
+ ","2018-07-26 15:23:29","FALSE","0","0","0","Food","Arunachal Pradesh","India",FALSE
+"1","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-28 16:45:38","TRUE","105","0","-1","Food","Arunachal Pradesh","India",FALSE
+"2","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-28 12:19:57","TRUE","227","0","0","Food","Arunachal Pradesh","India",FALSE
+"3","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-28 07:35:43","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"4","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-28 01:41:15","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"5","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-27 17:17:05","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"6","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 17:16:50","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"7","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 13:41:21","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"8","RT @sujataanandan: If Narendra Modi is not defeated in 2019, far from RSS'  Akhand Bharat, he will hand over Kashmir to Pakistan, Arunachal","2018-07-27 13:19:04","TRUE","8","0","1","Food","Arunachal Pradesh","India",FALSE
+"9","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 12:52:51","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"10","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 11:47:48","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"11","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 11:29:32","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"12","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-27 11:17:18","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"13","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 11:14:01","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"14","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 11:01:52","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"15","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 09:36:29","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"16","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 09:35:03","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"17","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 08:43:12","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"18","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 07:24:10","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"19","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-27 07:16:21","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"20","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 07:07:36","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"21","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 06:52:56","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"22","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 06:39:36","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"23","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 06:34:52","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"24","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 05:16:01","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"25","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 04:46:57","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"26","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 04:25:55","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"27","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 04:25:08","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"28","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 04:22:59","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"29","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 03:28:05","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"30","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 03:23:53","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"31","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 03:13:35","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"32","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 03:07:34","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"33","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 01:45:24","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"34","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 01:17:39","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"35","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 00:54:18","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"36","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 00:46:06","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"37","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 00:33:38","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"38","3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practice  ","2018-07-27 00:24:27","FALSE","0","0","-1","Food","Arunachal Pradesh","India",FALSE
+"39","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-27 00:14:34","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"40","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 23:55:21","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"41","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 23:54:13","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"42","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 23:46:49","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"43","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 22:31:13","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"44","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 22:17:53","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"45","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 22:08:44","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"46","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 20:25:40","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"47","RT @sujataanandan: If Narendra Modi is not defeated in 2019, far from RSS'  Akhand Bharat, he will hand over Kashmir to Pakistan, Arunachal","2018-07-26 20:23:06","TRUE","8","0","1","Food","Arunachal Pradesh","India",TRUE
+"48","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 19:51:52","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"49","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 19:48:18","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"50","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 19:44:21","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"51","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 19:43:23","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"52","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 19:39:45","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"53","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 19:36:25","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"54","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 19:32:46","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"55","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 19:32:28","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"56","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 19:01:25","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"57","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 18:59:21","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"58","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 18:48:29","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"59","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 18:34:53","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"60","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 18:20:44","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"61","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:58:16","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"62","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:56:30","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"63","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:55:30","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"64","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:54:19","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"65","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:50:42","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"66","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:49:47","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"67","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:46:33","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"68","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:43:40","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"69","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:37:29","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"70","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:36:20","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"71","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:28:21","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"72","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:23:56","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"73","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:23:13","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"74","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:21:06","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"75","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:19:31","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"76","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:18:45","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"77","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:14:57","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"78","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:05:32","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"79","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 17:03:01","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"80","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:59:11","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"81","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:56:52","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"82","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:52:50","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"83","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:42:26","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"84","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:39:55","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"85","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:38:55","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"86","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:35:56","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"87","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:35:03","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"88","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:34:41","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"89","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:33:54","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"90","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:33:13","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"91","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:31:06","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"92","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:30:22","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"93","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:28:53","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"94","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:27:29","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"95","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:26:49","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"96","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:26:38","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"97","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:25:30","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"98","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:24:49","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"99","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:24:13","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"100","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:23:48","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"101","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:22:50","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"102","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:22:35","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"103","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:21:16","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"104","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:20:21","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"105","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:13:54","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"106","RT @SanjeevaniPage: 3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practices :","2018-07-26 16:03:55","TRUE","105","0","-1","Food","Arunachal Pradesh","India",TRUE
+"107","3) I eat beef, Im from Arunachal Pradesh, can somebody stop me? So let us not be touchy about somebodys practice  ","2018-07-26 16:02:40","FALSE","105","134","-1","Food","Arunachal Pradesh","India",TRUE
+"108","RT @sujataanandan: If Narendra Modi is not defeated in 2019, far from RSS'  Akhand Bharat, he will hand over Kashmir to Pakistan, Arunachal","2018-07-26 15:44:49","TRUE","8","0","1","Food","Arunachal Pradesh","India",TRUE
+"109","RT @sujataanandan: If Narendra Modi is not defeated in 2019, far from RSS'  Akhand Bharat, he will hand over Kashmir to Pakistan, Arunachal","2018-07-26 14:55:58","TRUE","8","0","1","Food","Arunachal Pradesh","India",TRUE
+"110","RT @sujataanandan: If Narendra Modi is not defeated in 2019, far from RSS'  Akhand Bharat, he will hand over Kashmir to Pakistan, Arunachal","2018-07-26 14:19:43","TRUE","8","0","1","Food","Arunachal Pradesh","India",TRUE
+"111","RT @sujataanandan: If Narendra Modi is not defeated in 2019, far from RSS'  Akhand Bharat, he will hand over Kashmir to Pakistan, Arunachal","2018-07-26 14:11:04","TRUE","8","0","1","Food","Arunachal Pradesh","India",TRUE
+"112","RT @sujataanandan: If Narendra Modi is not defeated in 2019, far from RSS'  Akhand Bharat, he will hand over Kashmir to Pakistan, Arunachal","2018-07-26 13:30:22","TRUE","8","0","1","Food","Arunachal Pradesh","India",TRUE
+"113","RT @sujataanandan: If Narendra Modi is not defeated in 2019, far from RSS'  Akhand Bharat, he will hand over Kashmir to Pakistan, Arunachal","2018-07-26 13:18:33","TRUE","8","0","1","Food","Arunachal Pradesh","India",TRUE
+"114","If Narendra Modi is not defeated in 2019, far from RSS'  Akhand Bharat, he will hand over Kashmir to Pakistan, Arun  ","2018-07-26 13:18:12","FALSE","8","15","1","Food","Arunachal Pradesh","India",FALSE
+"115","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 12:40:10","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"116","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 11:38:15","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"117","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 11:18:40","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"118","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 10:49:31","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"119","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 10:35:40","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"120","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 10:32:45","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"121","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 10:18:04","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"122","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 10:09:00","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"123","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 08:39:24","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"124","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 08:03:32","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"125","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 07:38:41","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"126","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 07:37:15","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"127","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 07:09:33","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"128","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 06:20:46","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"129","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 06:07:06","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"130","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 05:52:02","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"131","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 05:35:23","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"132","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 05:30:19","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"133","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 05:09:58","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"134","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 04:59:17","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"135","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 04:45:45","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"136","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 04:24:45","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"137","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 04:22:05","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"138","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 04:18:56","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"139","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 04:16:56","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"140","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 04:04:07","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"141","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:56:56","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"142","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:43:34","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"143","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:42:13","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"144","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:40:38","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"145","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:28:56","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"146","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:27:50","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"147","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:15:54","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"148","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:14:57","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"149","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:14:06","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"150","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 03:12:27","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"151","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:55:42","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"152","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:43:20","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"153","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:41:43","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"154","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:23:49","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"155","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:23:38","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"156","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:21:27","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"157","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:18:52","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"158","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:17:06","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"159","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:04:34","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"160","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 02:03:39","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"161","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 01:50:05","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"162","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 01:43:48","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"163","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 01:33:48","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"164","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 01:29:37","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"165","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 01:14:06","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"166","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 01:12:52","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"167","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 00:58:50","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"168","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 00:55:59","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"169","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-26 00:40:01","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"170","Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was shared by RSS  ","2018-07-26 00:31:47","FALSE","0","1","0","Food","Arunachal Pradesh","India",FALSE
+"171","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 22:30:53","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"172","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 22:14:06","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"173","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 21:53:39","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"174","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 21:52:35","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"175","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 21:44:32","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"176","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 21:36:59","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"177","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 21:23:13","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"178","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 21:09:38","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"179","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 20:58:14","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"180","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 20:47:04","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"181","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 20:38:58","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"182","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 20:34:43","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"183","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 20:26:37","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"184","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 20:22:55","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"185","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 20:09:57","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"186","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 20:02:32","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"187","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:39:24","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"188","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:39:04","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"189","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:22:45","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"190","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:22:28","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"191","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:21:45","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"192","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:17:39","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"193","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:11:49","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"194","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:10:30","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"195","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:02:48","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"196","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:01:54","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"197","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 19:00:03","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"198","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:58:08","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"199","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:55:21","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"200","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:53:54","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"201","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:45:05","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"202","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:41:25","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"203","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:37:03","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"204","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:35:59","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"205","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:35:27","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"206","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:33:06","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"207","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:31:02","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"208","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:28:46","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"209","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:20:58","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"210","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:20:47","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"211","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:19:19","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"212","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:18:42","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"213","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:13:17","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"214","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:13:11","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"215","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:12:44","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"216","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:09:55","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"217","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:07:03","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"218","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:03:00","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"219","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:02:29","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"220","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 18:01:22","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"221","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:59:54","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"222","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:58:22","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"223","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:58:05","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"224","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:57:04","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"225","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:55:03","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"226","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:54:12","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"227","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:53:38","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"228","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:52:44","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"229","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:52:27","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"230","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:52:08","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"231","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:51:52","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"232","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:51:48","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"233","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:51:46","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"234","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:51:43","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"235","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:51:15","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"236","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:51:08","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"237","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:50:37","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"238","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:49:13","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"239","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:48:13","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"240","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:47:49","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"241","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:47:21","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"242","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:47:19","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"243","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:47:06","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"244","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:46:17","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"245","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:45:41","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"246","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:44:59","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"247","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:43:14","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"248","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:42:15","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"249","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:38:26","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"250","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:38:25","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"251","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:38:15","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"252","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:38:00","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"253","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:37:36","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"254","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:36:50","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"255","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:35:02","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"256","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:33:52","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"257","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:32:48","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"258","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:32:03","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"259","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:31:54","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"260","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:31:35","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"261","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:31:21","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"262","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:30:17","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"263","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:29:52","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"264","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:29:51","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"265","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:29:50","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"266","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:29:03","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"267","RT @SanjeevaniPage: @Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was sha","2018-07-25 17:28:58","TRUE","227","0","0","Food","Arunachal Pradesh","India",TRUE
+"268","@Shehla_Rashid Oops! RSS has around 3,000 members in Arunachal Pradesh, many of whom do consume beef. This fact was  ","2018-07-25 17:27:33","FALSE","227","378","0","Food","Arunachal Pradesh","India",FALSE
+"269","Lynchings will stop if people don't eat beef: RSS leader.
+I pray for well being of Manohar Parrikar (CM of ""Goa"")  ","2018-07-24 13:01:51","FALSE","0","1","1","Food","Arunachal Pradesh","India",FALSE
+"1","Arunachal Pradesh State Cooperative Apex Bank to launch 200 micro-ATMs - The Economic Times  ","2018-07-26 05:02:23","FALSE","0","0","1","Real Estate Value","Arunachal Pradesh","India",FALSE
+"2","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-22 16:50:13","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",FALSE
+"3","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-22 12:17:57","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"4","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-22 10:09:18","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"5","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-22 09:48:17","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"6","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-22 07:58:01","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"7","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-22 05:05:55","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"8","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-22 04:30:43","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"9","RT @NewsLiveGhy: BREAKING | Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from R","2018-07-22 04:07:34","TRUE","3","0","-2","Real Estate Value","Arunachal Pradesh","India",FALSE
+"10","RT @NewsLiveGhy: BREAKING | Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from R","2018-07-21 18:21:08","TRUE","3","0","-2","Real Estate Value","Arunachal Pradesh","India",TRUE
+"11","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-21 16:47:03","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"12","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-21 16:22:15","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"13","CORRECTION: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Sikkim, increased from Rs 1  ","2018-07-21 15:41:06","FALSE","0","0","-1","Real Estate Value","Arunachal Pradesh","India",FALSE
+"14","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-21 15:30:51","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"15","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 15:15:50","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",FALSE
+"16","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:58:15","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"17","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:57:16","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"18","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:55:38","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"19","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-21 14:47:39","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"20","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:40:22","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"21","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:25:51","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"22","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:24:01","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"23","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:23:16","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"24","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:20:46","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"25","RT @apnnewsindia: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 lakh to","2018-07-21 14:20:23","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"26","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:19:48","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"27","Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim increased from Rs 10 la  ","2018-07-21 14:18:42","FALSE","13","12","-1","Real Estate Value","Arunachal Pradesh","India",FALSE
+"28","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:13:37","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"29","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:11:40","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"30","Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 l  ","2018-07-21 14:11:15","FALSE","0","0","-1","Real Estate Value","Arunachal Pradesh","India",FALSE
+"31","RT @SouleFacts: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to","2018-07-21 14:09:37","TRUE","13","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"32","Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10  ","2018-07-21 14:08:17","FALSE","13","34","-1","Real Estate Value","Arunachal Pradesh","India",FALSE
+"33","RT @NewsLiveGhy: BREAKING | Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from R","2018-07-21 14:01:46","TRUE","3","0","-2","Real Estate Value","Arunachal Pradesh","India",TRUE
+"34","RT @tax_scan: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to 20","2018-07-21 14:00:51","TRUE","3","0","-1","Real Estate Value","Arunachal Pradesh","India",FALSE
+"35","BREAKING | Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased  ","2018-07-21 13:59:43","FALSE","3","3","-2","Real Estate Value","Arunachal Pradesh","India",FALSE
+"36","RT @tax_scan: Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 lakh to 20","2018-07-21 13:59:27","TRUE","3","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"37","Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 l  ","2018-07-21 13:59:16","FALSE","0","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"38","Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 l  ","2018-07-21 13:57:46","FALSE","0","0","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"39","Exemption limit for traders in Assam, Arunachal Pradesh, Himachal Pradesh, Himalaya, Sikkim, increased from Rs 10 l  ","2018-07-21 13:57:05","FALSE","3","2","-1","Real Estate Value","Arunachal Pradesh","India",TRUE
+"1","@narendramodi Pls sir do something for the gold in Arunachal Pradesh it's property of India not China, Jai Hind","2018-07-24 10:40:57","FALSE","0","0","1","Real Estate Value","Arunachal Pradesh","India",FALSE
+"1","DCM Chowna Mein takes up the issue of the Potin-Pangin section of the Trans-Arunachal Highway and other roads in th  ","2018-07-28 01:31:44","FALSE","0","0","-1","Transportation","Arunachal Pradesh","India",FALSE
+"2","@PMOIndia sir plz act agsinst 96 acuseed in 1000 crore PDS scam in Arunachal Pradesh &amp; ur CM sri Pema Khandu name i  ","2018-07-26 18:57:24","FALSE","0","0","-1","Transportation","Arunachal Pradesh","India",FALSE
+"3","RT @VionaNgwa: @narendramodi Sir, there is a place called vijoynagar  a small village sharing international boundary with Myanmar in arunac","2018-07-19 07:00:37","TRUE","4","0","0","Transportation","Arunachal Pradesh","India",FALSE
+"4","RT @VionaNgwa: @narendramodi Sir, there is a place called vijoynagar  a small village sharing international boundary with Myanmar in arunac","2018-07-19 06:54:21","TRUE","4","0","0","Transportation","Arunachal Pradesh","India",TRUE
+"5","RT @VionaNgwa: @narendramodi Sir, there is a place called vijoynagar  a small village sharing international boundary with Myanmar in arunac","2018-07-19 06:24:45","TRUE","4","0","0","Transportation","Arunachal Pradesh","India",TRUE
+"6","RT @VionaNgwa: @narendramodi Sir, there is a place called vijoynagar  a small village sharing international boundary with Myanmar in arunac","2018-07-19 06:12:27","TRUE","4","0","0","Transportation","Arunachal Pradesh","India",TRUE
+"1","RT @ThalesTransport: [Train Sys.] New 10,000 foot high railway to be built in Indian  district of Arunachal Pradeshs Tawang, close to","2018-07-23 09:45:19","TRUE","2","0","0","Transportation","Arunachal Pradesh","India",FALSE
+"2","RT @nhidcl: India's longest road and railway bridge connecting Dibrugarh in Assam to Pasighat in Arunachal Pradesh is likely to be inaugura","2018-07-21 12:07:45","TRUE","5","0","0","Transportation","Arunachal Pradesh","India",FALSE
+"3","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-20 10:51:27","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",FALSE
+"4","RT @EasternSentinel: Chief Minister Pema Khandu called on Union Minister for Railways Piyush Goyal and requested him to expedite the railwa","2018-07-19 18:45:05","TRUE","2","0","0","Transportation","Arunachal Pradesh","India",FALSE
+"5","@aajtak Sir Pls help Iam traveling from Arunachal Pradesh NAHARLAGUN to Guwahati  Via Train No.15618 . B3 AC Coach  ","2018-07-19 18:37:11","FALSE","0","0","0","Transportation","Arunachal Pradesh","India",FALSE
+"6","RT @ThalesTransport: [Train Sys.] New 10,000 foot high railway to be built in Indian  district of Arunachal Pradeshs Tawang, close to","2018-07-19 18:31:06","TRUE","2","0","0","Transportation","Arunachal Pradesh","India",TRUE
+"7","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-19 13:32:34","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"8","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-19 11:01:13","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"9","@DarshanGor5 @narendramodi @AmitShah @vijayrupanibjp @jitu_vaghani @VinodChavdaBJP @KeshubhaiBJP @jiten_thacker  ","2018-07-19 07:59:14","FALSE","0","0","0","Transportation","Arunachal Pradesh","India",FALSE
+"10","Expedite railway projects in Arunachal, Pema Khandu urgesPiyush Goyal  ","2018-07-19 06:23:18","FALSE","0","0","0","Transportation","Arunachal Pradesh","India",FALSE
+"11","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-19 05:06:08","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"12","RT @EasternSentinel: Chief Minister Pema Khandu called on Union Minister for Railways Piyush Goyal and requested him to expedite the railwa","2018-07-19 05:05:00","TRUE","2","0","0","Transportation","Arunachal Pradesh","India",TRUE
+"13","[Train Sys.] New 10,000 foot high railway to be built in Indian  district of Arunachal Pradeshs Tawang, close  ","2018-07-19 05:02:00","FALSE","2","3","0","Transportation","Arunachal Pradesh","India",FALSE
+"14","Chief Minister Pema Khandu called on Union Minister for Railways Piyush Goyal and requested him to expedite the rai  ","2018-07-19 04:51:26","FALSE","2","2","0","Transportation","Arunachal Pradesh","India",FALSE
+"15","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-19 01:22:21","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"16","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-18 16:51:09","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"17","Arunachal Pradesh Chief Minister Pema Khandu urges Union Railway Minister Piyush Goyal to expedite the ongoing railway projects in the state","2018-07-18 15:25:45","FALSE","0","0","0","Transportation","Arunachal Pradesh","India",FALSE
+"18","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-18 12:17:20","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"1","Arunachal: Two school bus collided, 6 studentsinjured  ","2018-07-19 14:35:11","FALSE","0","0","0","Transportation","Arunachal Pradesh","India",FALSE
+"1","RT @tongamrina: @KirenRijiju  11  years of assurances by the centre for an airport! Remember the foundation was laid in 2007 statehood day.","2018-07-23 05:27:49","TRUE","4","0","1","Transportation","Arunachal Pradesh","India",FALSE
+"2","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-20 10:51:27","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",FALSE
+"3","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-20 08:36:30","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",FALSE
+"4","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-19 15:16:41","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"5","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-19 13:36:06","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"6","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-19 13:32:34","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"7","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-19 13:32:29","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"8","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-19 12:06:17","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"9","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-19 11:01:13","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"10","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-19 09:38:19","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"11","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-19 05:06:08","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"12","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-19 03:30:04","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"13","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-19 03:18:25","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"14","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-19 01:22:21","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"15","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 18:20:45","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"16","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 17:41:11","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"17","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 17:22:38","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"18","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 17:15:43","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"19","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 17:02:24","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"20","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 16:57:05","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"21","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 16:51:45","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"22","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-18 16:51:09","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"23","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 16:49:15","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"24","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 16:40:42","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"25","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 16:05:11","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"26","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 16:04:58","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"27","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 15:59:24","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"28","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 14:13:18","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"29","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 13:22:21","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"30","RT @KirenRijiju: I'm grateful to Arunachal Pradesh CM @PemaKhanduBJP ji for the clearance of Greenfield Airport near Itanagar which was pen","2018-07-18 13:04:27","TRUE","271","0","1","Transportation","Arunachal Pradesh","India",TRUE
+"31","RT @PemaKhanduBJP: Always a pleasure meeting Shri @piyushgoyal ji. Discussed matter of funding for hollongi Airport and expediting surveys","2018-07-18 12:17:20","TRUE","43","0","1","Transportation","Arunachal Pradesh","India",TRUE
